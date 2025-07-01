@@ -1,0 +1,3 @@
+../Core/my_includes/app_sd.c:11:6:app_sd_init	1
+../Core/my_includes/app_sd.c:15:6:app_sd_loop	1
+../Core/my_includes/app_sd.c:19:6:app_sd_save_image	1

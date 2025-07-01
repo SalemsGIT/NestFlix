@@ -1,0 +1,4 @@
+../Core/my_includes/app_servo.c:12:6:app_servo_init	4	static
+../Core/my_includes/app_servo.c:16:6:app_servo_open_door	4	static
+../Core/my_includes/app_servo.c:20:6:app_servo_close_door	4	static
+../Core/my_includes/app_servo.c:24:6:app_servo_loop	4	static

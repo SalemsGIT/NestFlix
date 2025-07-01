@@ -1,0 +1,2 @@
+../Core/my_includes/app_camera.c:11:6:app_camera_init	4	static
+../Core/my_includes/app_camera.c:15:6:app_camera_loop	4	static
